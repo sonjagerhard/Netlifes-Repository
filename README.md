@@ -2,4 +2,5 @@
 Netlife-Mitglieder tauschen hier Program-Code aus
 https://netlife-ph.de  ist unsere Vereinsseite
 
-und diese Version ist in der zweiten Branch erzeugt worden
+hier sollen nun alle Versionen der Satzungen hinzugefügt werden,
+immer unter dem selben Namen:  Netlife-Satzung
